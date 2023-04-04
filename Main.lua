@@ -29,7 +29,7 @@ function Aiming.Check()
 
     if (KOd or Grabbed) then
         return false
-    end
+    end print(gyattt)
 
     return true
 end
